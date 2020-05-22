@@ -6,6 +6,8 @@
 
 [product page](https://www.st.com/en/evaluation-tools/nucleo-f302r8.html)
 
+### Summary
+
 These repos are common examples of rust projects to help learn embedded
 programming. I'm a beginner myself and I found that all board examples are
 slightly different so I thought I'd throw my hat in the ring and put
